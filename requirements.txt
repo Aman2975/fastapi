@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+pymongo
+python-jose[cryptography]
+passlib[argon2]
+pydantic
+pydantic-settings
+PyJWT
+bcrypt==4.0.1
