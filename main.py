@@ -1,7 +1,4 @@
-"""
-FastAPI RBAC Application - Main Entry Point
-Modular Architecture with JWT Authentication and MongoDB
-"""
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.config import settings
